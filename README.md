@@ -549,3 +549,4 @@ export const query = graphql`
 
 ### TEMPLATES
 * where templates go and why
+* more on providers (and stock components for thems)
